@@ -1,0 +1,9 @@
+Você trabalha em uma oficina de carros de brinquedo e seu trabalho é construir carros de brinquedo a partir de uma coleção de peças. Cada carro de brinquedo precisa de 4 rodas, 1 carroceria e 2 figuras de pessoas para serem colocadas dentro. Dado o número total de rodas, carroçarias e números disponíveis, quantas completo carros de brinquedo você pode fazer?
+
+Exemplos
+cars(2, 48, 76) ➞ 0
+// 2 wheels, 48 car bodies, 76 figures
+
+cars(43, 15, 87) ➞ 10
+
+cars(88, 37, 17) ➞ 8
